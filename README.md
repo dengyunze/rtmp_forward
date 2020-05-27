@@ -8,4 +8,4 @@ Features:
 2. drop audio or video;
 3. resize video;
 
-The code is down, I'm cleanup and will upload code soon.
+The code is done, I'm cleanup and upload soon.
